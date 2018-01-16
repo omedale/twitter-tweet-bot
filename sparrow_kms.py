@@ -31,9 +31,9 @@ twitter = Twython(CONSUMER_KEY, CONSUMER_SECRET,
 
 # Sample random tweets
 potential_tweets = [
-    'This is my first tweet with Sparrow by @fmc_sea - https://github.com/fernando-mc/sparrow',
-    'Wow! Isn\'t Sparrow by @fmc_sea just the coolest! https://github.com/fernando-mc/sparrow',
-    'Jeez! Everyone should learn about AWS Lambda and Twitter Bots from @fmc_sea'
+    'This is my first tweet with Sparrow by @omedaleo1 - https://github.com/omedale/twitter-tweet-bot',
+    'Wow! Isn\'t Sparrow by @omedaleo1 just the coolest! https://github.com/omedale/twitter-tweet-bot',
+    'Jeez! Everyone should learn about AWS Lambda and Twitter Bots from @omedaleo1'
 ]
 
 def send_tweet(tweet_text):
